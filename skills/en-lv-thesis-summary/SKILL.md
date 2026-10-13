@@ -5,6 +5,8 @@ description: Translate academic dissertation material from English into Latvian 
 
 # EN → LV dissertation summary translation
 
+**Scope: this skill is only for business, digital economy and similar studies (economics, management, entrepreneurship, innovation); do not use it for other fields.**
+
 Produce a Latvian text that a promotion council reviewer would accept as originally written in Latvian: correct grammar, correct orthography with full diacritics, standardized terminology, zero drift in meaning or numbers, and consistent use of every term and claim across the whole document.
 
 The user gives plain English. Return plain Latvian. All the rigor below happens internally and produces exactly one visible output: the translated text.
