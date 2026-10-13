@@ -8,4 +8,4 @@ Claude skills for PhD work.
 
 | Skill | Purpose |
 |---|---|
-| [`en-lv-thesis-summary`](skills/en-lv-thesis-summary/SKILL.md) | Translate English academic dissertation material into Latvian at submission quality. Business, digital economy and similar studies only. Business, digital economy and similar studies only. |
+| [`en-lv-thesis-summary`](skills/en-lv-thesis-summary/SKILL.md) | Translate English academic dissertation material into Latvian at submission quality. Business, digital economy and similar studies only. |
