@@ -1,0 +1,38 @@
+# Sources behind this skill
+
+- Mullins & Kiley (2002), It's a PhD, not a Nobel Prize, Studies in Higher Education (ANU record): https://researchportalplus.anu.edu.au/en/publications/its-a-phd-not-a-nobel-prize-how-experienced-examiners-assess-rese/
+- Mewburn, Thesis Whisperer, 5 ways to fail your PhD: https://thesiswhisperer.com/2011/02/17/5-ways-to-fail-your-phd/
+- Athabasca University, Guide to writing the dissertation literature review: https://landing.athabascau.ca/file/download/1341404
+- Boote & Beile (2005), Scholars before researchers, Educational Researcher: https://courses.washington.edu/rdesign/Boote_Biele2005.pdf
+- Dublin descriptors summary (unibz): https://guide.unibz.it/assets/internship-and-placement/bz-bk-campus/steps-and-forms/Dublin-Descriptors.pdf
+- JQI shared Dublin descriptors: https://www.uni-due.de/imperia/md/content/bologna/dublin_descriptors
+- AHA on CGS PhD Completion Project data: https://www.historians.org/research-and-publications/perspectives-on-history/september-2007/new-study-suggests-history-phd-10-year-completion-rates-remain-low
+- Gill & Dolan (2015), Originality and the PhD, Nurse Researcher: https://lucalongo.eu/content/paper2.pdf
+- Paltridge (2002), Thesis and dissertation writing: advice and practice (abstract): https://www.bibsonomy.org/bibtex/abb1f97f40270603e39d42495dc05ceb
+- Lestari & Hakim (2025), Review of Paltridge & Starfield (2024): https://publications.coventry.ac.uk/index.php/joaw/article/download/1315/1246/8679
+- Macquarie University, Thesis by publication examiners' guidelines: https://students.mq.edu.au/__data/assets/pdf_file/0010/1149823/Thesis-by-Publication-Examiners-guidelines-final.pdf
+- DCU, Guidelines on PhD by publication (2025): https://www.dcu.ie/sites/default/files/registry_access/2025-12/guidelines-on-phd-by-publication_nov-2025.pdf
+- Griffith University, Preparing your thesis and examiners: https://www.griffith.edu.au/__data/assets/pdf_file/0021/435270/Preparing-your-thesis-and-examiners-2018.pdf
+- Bournemouth University, Examining a PhD by publication: https://blogs.bournemouth.ac.uk/research/2021/10/21/reflections-on-examining-a-phd-by-publications-or-hybrid-phd/
+- University of Adelaide, Thesis examination protocol: https://adelaide.edu.au/content/dam/adelaideuniversity/documents/research/graduate-research-school/graduate-research-handbook/pdfs/graduate-research-thesis-examination-protocol.pdf
+- Silesian University in Opava, Master thesis seminar (business): https://is.slu.cz/el/opf/zima2024/OPFNAMTS/um/seminar_2/2_Master_thesis_seminar.pdf
+- Kharkiv National University of Economics, Master's thesis guidelines (management): https://pns.hneu.edu.ua/mod/resource/view.php?id=543448
+- Latvia University of Life Sciences and Technologies, Master's thesis guidelines (HRM): https://www.esaf.lbtu.lv/sites/esaf/files/2025-11/Master%20thesis%20guidelines_Human%20Resource%20Management.pdf
+- Erasmus University Rotterdam (RSM), Master thesis manual: https://www.eur.nl/sites/corporate/files/FBK_-_11_brochure_Manual_Master_Thesis_3nov.pdf
+- University of Bologna, Guidelines for the master's thesis: https://corsi.unibo.it/s/3427/p/en/information-on-writing-a-dissertation-and-graduation-mark/guidelines-for-the-master-thesis.pdf/@@download/file/Guidelines%20for%20the%20Master%20thesis.pdf
+- University of Tübingen, Tips for writing a master thesis (download link may expire; search the department site)
+- Grant & Booth (2009), A typology of reviews: https://salford-repository.worktribe.com/output/1454519/a-typology-of-reviews-an-analysis-of-14-review-types-and-associated-methodologies
+- Sheffield, How to synthesise information: https://sheffield.ac.uk/study-skills/research/approaches/synthesise
+- Stanford PWR, Synthesis matrix: https://teachingwriting.stanford.edu/synthesis-matrix
+- Rowan University, Synthesis guide: https://sites.rowan.edu/sgs/_docs/lessons/synthesis.pdf
+- UBC, Producing effective tables and figures: https://wiki.ubc.ca/Communicating_Science/Producing_Effective_Figures/Producing_Effective_Tables_and_Figures
+- Plavén-Sigray et al. (2017), Readability of scientific texts (PMC): https://pmc.ncbi.nlm.nih.gov/articles/PMC5584989
+- Citation Style Language primer: https://docs.citationstyles.org/en/stable/primer.html
+- APA Style, Table setup: https://apastyle.apa.org/style-grammar-guidelines/tables-figures/tables
+- APSU Writing Center, IEEE guidelines: https://www.apsu.edu/writingcenter/writing-resources/ieee-guidelines-handout.pdf
+- University of Edinburgh, Viva preparation guide: https://doctoral-college.ed.ac.uk/sites/default/files/2026-08/Viva%20Preparation.pdf
+- Times Higher Education, Denicolo, Duke & Reeves on viva preparation: https://www.timeshighereducation.com/node/671538
+- Université Laval, Mandatory GenAI disclosure in theses: https://www.fesp.ulaval.ca/system/files/public/memoires-theses/declaration_obligatoire_IA_generative_eng.pdf
+- Open University (2025), GenAI and doctoral education: https://oro.open.ac.uk/105483
+- UC3M, Thesis guide on GenAI: https://uc3m.libguides.com/EN/thesis/GenAI
+- DCU, Reporting GenAI use in theses (2025): https://www.dcu.ie/sites/default/files/registry_access/2026-01/guidance-for-doctoral-students-and-supervisors-on-reporting-use-of-gen-ai_december-2025_v2_1.pdf
