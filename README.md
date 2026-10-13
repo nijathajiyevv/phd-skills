@@ -2,8 +2,6 @@
 
 Claude skills for PhD work.
 
-**Scope:** these skills are intended for business, digital economy and similar studies only. They are not designed for other fields of study.
-
 ## Skills
 
 | Skill | Purpose |
